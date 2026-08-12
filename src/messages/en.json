@@ -1,0 +1,448 @@
+{
+  "meta": {
+    "shortName": "Mahdi Ibrahim",
+    "title": "Mahdi Ibrahim — Full-Stack & Mobile Developer, Product Builder",
+    "description": "I build digital products that turn ambitious ideas into reality — web, mobile, AI and GIS platforms for startups and real-world impact."
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "projects": "Projects",
+    "skills": "Skills",
+    "experience": "Experience",
+    "contact": "Contact",
+    "letsTalk": "Let's Talk",
+    "menu": "Menu",
+    "openMenu": "Open menu",
+    "closeMenu": "Close menu"
+  },
+  "theme": {
+    "light": "Light",
+    "dark": "Dark",
+    "toggle": "Toggle theme"
+  },
+  "hero": {
+    "eyebrow": "FULL-STACK DEVELOPER · PRODUCT BUILDER · CREATIVE TECHNOLOGIST",
+    "headlineStart": "I build",
+    "headlineHighlight1": "digital products",
+    "headlineMiddle": "that turn ambitious ideas into",
+    "headlineHighlight2": "reality.",
+    "description": "Full-stack developer, mobile engineer and product builder working across web, mobile, AI, maps & GIS, SaaS and backend systems — turning ambitious ideas into digital products that ship.",
+    "ctaPrimary": "Explore My Work",
+    "ctaSecondary": "Let's Work Together",
+    "resume": "Download CV",
+    "github": "GitHub",
+    "linkedin": "LinkedIn",
+    "visual": {
+      "ai": "AI",
+      "maps": "Maps",
+      "developer": "Developer",
+      "mobile": "Mobile",
+      "backend": "Backend",
+      "products": "Products"
+    }
+  },
+  "stats": {
+    "projects": "Projects",
+    "years": "Years Building",
+    "languages": "Languages",
+    "ideas": "Ideas"
+  },
+  "projects": {
+    "eyebrow": "SELECTED WORK",
+    "title": "Selected Work",
+    "subtitle": "A collection of products, platforms and experiments I've built.",
+    "filters": {
+      "all": "All",
+      "web": "Web",
+      "mobile": "Mobile",
+      "ai": "AI",
+      "saas": "SaaS",
+      "gis": "GIS",
+      "ecommerce": "E-commerce",
+      "edtech": "EdTech",
+      "startups": "Startups",
+      "experiments": "Experiments"
+    },
+    "viewCaseStudy": "View Case Study",
+    "visitWebsite": "Visit Website",
+    "comingSoon": "Website coming soon",
+    "achievementBadge": "Govathon 2025 · Social Impact Award"
+  },
+  "projectItems": {
+    "ekolo": {
+      "category": "AI · SMART CITY · GIS · MOBILE",
+      "title": "EKOLO",
+      "description": "An AI-powered urban waste-management platform helping African cities collect, understand and optimize how waste operations run — from the truck in the field to the dashboard in the operations room."
+    },
+    "senagrix": {
+      "category": "AGRITECH · MARKETPLACE",
+      "title": "Senagrix",
+      "description": "A digital platform for Senegal's agricultural sector that makes it easy to buy, sell and share information — with a marketplace, daily market prices, WhatsApp contact and USSD access."
+    },
+    "farmingafrica": {
+      "category": "AGRITECH · E-COMMERCE",
+      "title": "FarmingAfrica",
+      "description": "An agricultural e-commerce platform focused on seeds and products for African agriculture."
+    },
+    "school-management": {
+      "category": "EDTECH · SAAS · BACKEND",
+      "title": "School Management Platform",
+      "description": "A complete school management SaaS covering students, academic years, payments, receipts and AI-assisted data imports."
+    },
+    "komizi": {
+      "category": "CONTENT · WEB PLATFORM",
+      "title": "Komizi",
+      "description": "A modern web platform with user management and content administration."
+    },
+    "ekolo-mobile": {
+      "category": "FLUTTER · GIS · MOBILE",
+      "title": "EKOLO Mobile",
+      "description": "A mobile application for field workers to manage waste-collection tasks and location-based operations."
+    }
+  },
+  "caseStudy": {
+    "backToProjects": "Back to Projects",
+    "overview": "Overview",
+    "problem": "Problem",
+    "solution": "Solution",
+    "features": "Features",
+    "myRole": "My Role",
+    "technology": "Technology",
+    "architecture": "Architecture",
+    "screenshots": "Screenshots",
+    "challenges": "Challenges",
+    "results": "Results",
+    "lessonsLearned": "Lessons Learned",
+    "liveWebsite": "Live Website",
+    "otherProjects": "Other Projects"
+  },
+  "caseStudies": {
+    "ekolo": {
+      "overview": "EKOLO is a smart-city platform that brings visibility and intelligence to urban waste collection. It connects field crews, vehicles and city operators through a single system: a mobile app for collection teams, a web dashboard for operators, and an AI layer that turns raw operational data into decisions.",
+      "problem": "Waste collection across many African cities is still run on paper routes, radio calls and guesswork. Trucks miss zones, bins overflow before anyone notices, and city operators have no live picture of what's actually happening on the ground — which makes planning, budgeting and accountability nearly impossible.",
+      "solution": "EKOLO gives every layer of the operation a live picture. Field agents use a Flutter mobile app to log collections and report issues from the truck. A Next.js/Symfony web dashboard turns that stream of field data into maps, routes and reports for city operators. An AI layer sits underneath, flagging anomalies, forecasting collection needs and helping teams prioritize where attention is needed most.",
+      "features": [
+        "Real-time collection tracking on an interactive map (MapLibre/Mapbox)",
+        "Mobile field app for collection crews to log stops, issues and routes",
+        "Operator dashboard with route history, coverage and performance views",
+        "AI-assisted anomaly detection and operational insights",
+        "Role-based access for field agents, supervisors and city administrators",
+        "Offline-friendly mobile workflows for low-connectivity areas"
+      ],
+      "role": "I work as a full-stack and mobile developer on EKOLO, building across the Next.js/Symfony backend, the Flutter field app, and the mapping and AI layers that turn raw field data into something operators can act on.",
+      "architecture": "EKOLO is built as a Next.js + React frontend talking to a Symfony REST API, backed by PostgreSQL. The Flutter mobile app shares the same API layer, with MapLibre and Mapbox handling the mapping surfaces on both web and mobile. The whole stack runs in Docker containers for consistent deployment across environments.",
+      "challenges": [
+        "Keeping the mobile app usable for field crews in areas with unreliable connectivity",
+        "Designing a data model flexible enough to represent messy, real-world collection routes",
+        "Turning raw GPS and operational data into insights that are actually useful to non-technical city staff"
+      ],
+      "results": [
+        "Recognized with the Social Impact Award at Govathon 2025",
+        "A working, field-tested system connecting mobile crews to a live operations dashboard",
+        "A foundation the team continues to build on as EKOLO expands to new cities"
+      ],
+      "lessons": [
+        "Designing for low-connectivity, real-world field conditions changes almost every technical decision",
+        "The best dashboards are the ones built alongside the people who'll actually use them",
+        "Shipping something that solves a real civic problem is a different kind of reward than shipping a feature"
+      ]
+    },
+    "senagrix": {
+      "overview": "Senagrix is a digital platform that connects farmers, consumers and traders across Senegal. It combines an online marketplace, daily market prices, instant WhatsApp contact and a USSD service — built to match how Senegalese farmers actually work, from smartphones down to basic feature phones.",
+      "problem": "Farmers in Senegal often rely on local middlemen and word of mouth to sell their harvest, with little visibility into fair market prices. Buyers struggle to find fresh local produce, and a large share of rural producers still use phones without internet — leaving a wide gap between producers and markets.",
+      "solution": "Senagrix brings the whole chain onto one platform: farmers publish their produce with photo, quantity and price; buyers see live listings and real prices from the main markets; one tap opens WhatsApp to negotiate directly; and the *804# USSD service delivers prices, listings and alerts to any basic phone, even without internet.",
+      "features": [
+        "Online marketplace where farmers list produce with photo, quantity, price and location",
+        "Daily market prices from cities like Dakar, Touba, Kaolack and Saint-Louis",
+        "One-tap WhatsApp or phone contact between buyers and sellers",
+        "*804# USSD service for checking prices, publishing listings and receiving SMS alerts without internet",
+        "Weather forecasts, disease and pest alerts, and a directory of trusted suppliers",
+        "Android app in beta for the full marketplace experience"
+      ],
+      "role": "I built Senagrix end-to-end as a full-stack developer — from the marketplace and listing architecture to the price tracker and the USSD and mobile experiences.",
+      "architecture": "Senagrix runs on a Next.js/React frontend with TypeScript, styled with Tailwind CSS, backed by a PostgreSQL database for listings, prices and user data.",
+      "challenges": [
+        "Designing the service to work for users on 2G connections and feature phones without internet",
+        "Keeping daily market-price data accurate and trustworthy across many markets and regions",
+        "Building a marketplace that removes abusive middlemen while staying simple enough for first-time digital users"
+      ],
+      "results": [
+        "A live platform at senagrix.com",
+        "Market coverage spanning all 14 regions of Senegal",
+        "An Android app in beta, with USSD access following"
+      ],
+      "lessons": [
+        "Designing for low connectivity changes almost every technical decision — simple always wins",
+        "Meeting people where they already are (WhatsApp, basic phones) beats building new habits",
+        "Trust comes from real, daily data — accurate prices are worth more than features"
+      ]
+    },
+    "farmingafrica": {
+      "overview": "FarmingAfrica is an e-commerce platform built for farmers and agribusinesses, focused on making agricultural seeds and products easy to browse, order and receive.",
+      "problem": "Farmers and agribusinesses often struggle to reliably source quality seeds and agricultural products, with limited online options built for their specific needs.",
+      "solution": "FarmingAfrica brings agricultural products online with a catalog built around how farmers actually shop — by crop, season and region — with a straightforward ordering flow.",
+      "features": [
+        "Product catalog for seeds and agricultural products",
+        "Cart and order flow built for agricultural buyers",
+        "Responsive storefront optimized for mobile access",
+        "Admin tooling for managing catalog and orders"
+      ],
+      "role": "I built the storefront and ordering flow as a full-stack developer, from the product catalog to checkout.",
+      "architecture": "FarmingAfrica is built with Next.js and React on the frontend, styled with Tailwind CSS, backed by a PostgreSQL database for catalog and order data.",
+      "challenges": [
+        "Modeling agricultural products with seasonal and regional variation",
+        "Keeping the storefront fast and usable on lower-end mobile connections",
+        "Designing an ordering flow simple enough for first-time online buyers"
+      ],
+      "results": [
+        "A live storefront at farmingafrica.com",
+        "A catalog and ordering system built specifically around agricultural buying patterns"
+      ],
+      "lessons": [
+        "E-commerce for a new market means designing for trust before convenience",
+        "Performance on mobile networks is a feature, not an afterthought"
+      ]
+    },
+    "school-management": {
+      "overview": "A backend-heavy SaaS platform for managing schools end-to-end — students, academic years, subjects, finances and receipts — built to replace spreadsheets and paper records with one system.",
+      "problem": "Many schools still run academic and financial records across spreadsheets, paper files and disconnected tools, making it hard to track students, payments and academic history reliably.",
+      "solution": "A unified platform that manages student records, academic years and finances together, with AI-assisted Excel imports to make migrating existing school data painless.",
+      "features": [
+        "Student and academic-year management",
+        "Payments and receipt generation",
+        "Excel import with AI-assisted data mapping and cleanup",
+        "Secure authentication and role-based access",
+        "REST API powering the platform's web and future integrations"
+      ],
+      "role": "I designed and built the backend architecture — data model, authentication, REST APIs and the AI-assisted import pipeline.",
+      "architecture": "Built on Symfony with Doctrine ORM and PostgreSQL, exposing a REST API secured with JWT authentication. An AI layer assists with parsing and mapping imported Excel data into the platform's schema.",
+      "challenges": [
+        "Designing a data model general enough for different schools' academic structures",
+        "Making Excel imports reliable despite messy, inconsistent source spreadsheets",
+        "Keeping financial records — payments and receipts — accurate and auditable"
+      ],
+      "results": [
+        "A working platform capable of managing students, academic years and payments in one place",
+        "An AI-assisted import pipeline that meaningfully reduces manual data entry when onboarding a school"
+      ],
+      "lessons": [
+        "Backend architecture decisions made early — especially around the data model — pay off, or cost you, the most later",
+        "AI is most useful in these systems as an assistant for messy data entry, not as a black box making decisions"
+      ]
+    },
+    "komizi": {
+      "overview": "Komizi is a content-driven web platform built with a modern frontend and a full content-management layer for administrators.",
+      "problem": "Publishing and managing content and users across a growing platform needs more than a static website — it needs proper admin tooling and user management from day one.",
+      "solution": "Komizi pairs a fast, modern public-facing site with an admin layer for managing users and content, built to scale as the platform grows.",
+      "features": [
+        "User management and authentication",
+        "Content administration and publishing tools",
+        "Modern, responsive public-facing interface",
+        "Structured content model built for growth"
+      ],
+      "role": "I built Komizi full-stack, from the content and user data model to the public frontend and admin tooling.",
+      "architecture": "Komizi runs on a Next.js/React/TypeScript frontend styled with Tailwind CSS, backed by a PostgreSQL database for content and user data.",
+      "challenges": [
+        "Building admin tooling that's powerful without being intimidating to non-technical users",
+        "Structuring content models flexible enough for evolving content types"
+      ],
+      "results": [
+        "A live platform at komizi.com",
+        "A reusable content-and-user-management foundation for future features"
+      ],
+      "lessons": [
+        "Good admin UX is as important as the public-facing site — it's what your team lives in every day",
+        "Content models are worth over-engineering slightly upfront, because they're painful to change later"
+      ]
+    },
+    "ekolo-mobile": {
+      "overview": "EKOLO Mobile is the field-facing companion to the EKOLO platform — a Flutter app built for collection crews to manage tasks and report from the ground.",
+      "problem": "Field crews need a fast, reliable way to see their tasks, log collections and report issues without needing a desk or a stable office connection.",
+      "solution": "A lightweight, location-aware Flutter app that puts task lists, live location and reporting directly in the hands of field workers.",
+      "features": [
+        "Task lists and route assignments for field crews",
+        "Live location tracking with MapLibre",
+        "Issue reporting directly from the field",
+        "REST API integration with the EKOLO backend"
+      ],
+      "role": "I built the mobile app in Flutter, integrating GPS/MapLibre location features with the EKOLO REST API.",
+      "architecture": "Built with Flutter and Dart, using MapLibre for mapping and device GPS for live location, communicating with the EKOLO backend over a REST API.",
+      "challenges": [
+        "Handling GPS accuracy and battery use over a full field shift",
+        "Keeping the app responsive and simple for crews using it constantly, all day, in the field"
+      ],
+      "results": [
+        "A field-tested mobile app used by EKOLO collection crews",
+        "A shared API layer that keeps mobile and web operators in sync in real time"
+      ],
+      "lessons": [
+        "Field software succeeds or fails on speed and simplicity — every extra tap costs someone real time",
+        "Designing for GPS and connectivity constraints in the field is a very different discipline than typical mobile UI work"
+      ]
+    }
+  },
+  "about": {
+    "eyebrow": "ABOUT",
+    "title": "About Me",
+    "paragraph1": "I'm a full-stack and mobile developer, product builder and entrepreneur based in Dakar, Senegal — working across web, mobile, AI, GIS and e-commerce to build software that solves real problems.",
+    "paragraph2": "I care about African technology and building products with real-world impact, from smart-city platforms like EKOLO to SaaS tools for schools and e-commerce for farmers. Whether I'm writing a REST API, a Flutter screen or an AI-assisted workflow, I'm focused on shipping something people actually use.",
+    "focusAreas": [
+      "Web Applications",
+      "Mobile Applications",
+      "SaaS Platforms",
+      "AI Integration",
+      "GIS & Mapping",
+      "E-commerce"
+    ]
+  },
+  "skills": {
+    "eyebrow": "SKILLS",
+    "title": "Technology Ecosystem",
+    "subtitle": "The tools and technologies I use to design, build and ship products.",
+    "categories": {
+      "frontend": "Frontend",
+      "backend": "Backend",
+      "mobile": "Mobile",
+      "ai": "AI",
+      "maps": "Maps / GIS",
+      "devops": "DevOps",
+      "tools": "Tools"
+    },
+    "usedIn": "Used in",
+    "coreSkill": "Core skill"
+  },
+  "experience": {
+    "eyebrow": "JOURNEY",
+    "title": "Experience & Journey",
+    "items": {
+      "upsSuptech": {
+        "title": "Licence Professionnelle, Multimedia",
+        "description": "Undergraduate studies in multimedia at UPS Suptech, building the foundation for a career across design and development."
+      },
+      "groupeIsi": {
+        "title": "Master's in Computer Engineering (DITI)",
+        "description": "Graduate studies in computer engineering, deepening my software engineering and systems foundations."
+      },
+      "sklManager": {
+        "title": "Full-Stack Web Developer (Freelance)",
+        "description": "Building and maintaining a management platform with React, Node.js and Symfony, including database design and secure REST APIs."
+      },
+      "aihorizon": {
+        "title": "Technical Support & Digital Management",
+        "description": "Maintaining web and mobile platforms, monitoring backend infrastructure and managing digital presence."
+      },
+      "govathon": {
+        "title": "Social Impact Award",
+        "description": "EKOLO recognized with the Social Impact Award at Govathon 2025."
+      },
+      "ekolo": {
+        "title": "Web & Mobile Developer, Product Lead",
+        "description": "Building EKOLO's smart-city waste-management platform across web, mobile and AI."
+      }
+    }
+  },
+  "services": {
+    "eyebrow": "SERVICES",
+    "title": "What I Build",
+    "subtitle": "End-to-end product development, from idea to deployment.",
+    "items": {
+      "web": {
+        "title": "Web Applications",
+        "description": "Modern, scalable web applications built with React, Next.js and TypeScript."
+      },
+      "mobile": {
+        "title": "Mobile Applications",
+        "description": "Cross-platform mobile experiences built with Flutter."
+      },
+      "backend": {
+        "title": "Backend & APIs",
+        "description": "Secure, well-structured REST APIs and backend systems built with Symfony and PostgreSQL."
+      },
+      "ai": {
+        "title": "AI Integration",
+        "description": "AI-powered features, assistants, automation and data processing built into real products."
+      },
+      "gis": {
+        "title": "GIS & Maps",
+        "description": "Interactive mapping, geolocation, tracking and location-based applications."
+      },
+      "product": {
+        "title": "Product Development",
+        "description": "Turning ideas into functional digital products, from concept through deployment."
+      }
+    }
+  },
+  "architecture": {
+    "eyebrow": "ARCHITECTURE",
+    "title": "How I Build",
+    "subtitle": "A typical stack behind the products I ship — modern, modular and built to scale.",
+    "labels": {
+      "user": "User",
+      "frontend": "Next.js · React · TypeScript",
+      "api": "Symfony REST API",
+      "database": "PostgreSQL",
+      "mobile": "Flutter",
+      "ai": "AI",
+      "maps": "MapLibre",
+      "infra": "Docker · Cloudflare"
+    }
+  },
+  "achievements": {
+    "eyebrow": "ACHIEVEMENTS",
+    "title": "Achievements",
+    "subtitle": "Recognition along the way.",
+    "items": {
+      "govathon": {
+        "title": "Social Impact Award",
+        "description": "Awarded to EKOLO at Govathon 2025 for its impact on urban waste management."
+      }
+    }
+  },
+  "github": {
+    "eyebrow": "OPEN SOURCE",
+    "title": "GitHub",
+    "subtitle": "A look at what I'm building and contributing to in the open.",
+    "viewGithub": "View GitHub",
+    "loading": "Loading repositories…",
+    "error": "Couldn't load repositories right now — check the profile directly.",
+    "noDescription": "No description provided.",
+    "repositories": "Repositories",
+    "followers": "Followers"
+  },
+  "contact": {
+    "eyebrow": "CONTACT",
+    "title": "Have an idea?",
+    "titleHighlight": "Let's build it.",
+    "description": "Whether you're building a startup, launching a product or solving a complex problem, let's talk.",
+    "formName": "Name",
+    "formEmail": "Email",
+    "formProjectType": "Project Type",
+    "formProjectTypeOptions": [
+      "Web Application",
+      "Mobile Application",
+      "SaaS Product",
+      "AI Integration",
+      "Other"
+    ],
+    "formMessage": "Message",
+    "formNamePlaceholder": "Your name",
+    "formEmailPlaceholder": "you@email.com",
+    "formMessagePlaceholder": "Tell me about your project…",
+    "send": "Send Message",
+    "sending": "Sending…",
+    "success": "Message ready — your email app should be opening now.",
+    "error": "Something went wrong. Please try again or email me directly.",
+    "requiredField": "This field is required.",
+    "invalidEmail": "Please enter a valid email address.",
+    "emailLabel": "Email",
+    "githubLabel": "GitHub",
+    "linkedinLabel": "LinkedIn"
+  },
+  "footer": {
+    "tagline": "Building digital products from Africa for the world.",
+    "navigationTitle": "Navigation",
+    "socialTitle": "Social",
+    "rights": "All rights reserved."
+  }
+}

@@ -1,0 +1,448 @@
+{
+  "meta": {
+    "shortName": "Mahdi Ibrahim",
+    "title": "Mahdi Ibrahim — Developpeur Full-Stack ak Mobile, Product Builder",
+    "description": "Damay defar ay produits numérique yu jëfandikoo xalaat yu réy ba mu doon dara am solo — web, mobile, IA ak GIS ngir startups ak impact ci dëkk bi."
+  },
+  "nav": {
+    "home": "Kër",
+    "about": "Ci Man",
+    "projects": "Proje yi",
+    "skills": "Xam-xam",
+    "experience": "Liggéey",
+    "contact": "Jokkoo",
+    "letsTalk": "Nu Waxtaan",
+    "menu": "Menu",
+    "openMenu": "Ubbi menu bi",
+    "closeMenu": "Tëj menu bi"
+  },
+  "theme": {
+    "light": "Set",
+    "dark": "Ñuul",
+    "toggle": "Soppi thème"
+  },
+  "hero": {
+    "eyebrow": "DÉVELOPPEUR FULL-STACK · PRODUCT BUILDER · CREATIVE TECHNOLOGIST",
+    "headlineStart": "Damay defar ay",
+    "headlineHighlight1": "produits numérique",
+    "headlineMiddle": "yu jëfandikoo xalaat yu réy ba mu doon",
+    "headlineHighlight2": "dara am solo.",
+    "description": "Développeur full-stack, ingénieur mobile ak product builder, dama liggéey ci web, mobile, IA, cartes & GIS, SaaS ak systèmes backend — ngir xalaat yu réy doon ay produits numérique yu am solo ci àddina.",
+    "ctaPrimary": "Xool Sama Liggéey",
+    "ctaSecondary": "Nu Liggéey Ñoot",
+    "resume": "Yòbbu CV bi",
+    "github": "GitHub",
+    "linkedin": "LinkedIn",
+    "visual": {
+      "ai": "IA",
+      "maps": "Cartes",
+      "developer": "Développeur",
+      "mobile": "Mobile",
+      "backend": "Backend",
+      "products": "Produits"
+    }
+  },
+  "stats": {
+    "projects": "Proje",
+    "years": "At yu Liggéey",
+    "languages": "Làkk",
+    "ideas": "Xalaat"
+  },
+  "projects": {
+    "eyebrow": "LIGGÉEY YU TANN",
+    "title": "Liggéey Yu Tann",
+    "subtitle": "Ay produits, plateformes ak expérimentation yu ma defar.",
+    "filters": {
+      "all": "Lépp",
+      "web": "Web",
+      "mobile": "Mobile",
+      "ai": "IA",
+      "saas": "SaaS",
+      "gis": "GIS",
+      "ecommerce": "E-commerce",
+      "edtech": "EdTech",
+      "startups": "Startups",
+      "experiments": "Expérimentation"
+    },
+    "viewCaseStudy": "Xool Case Study bi",
+    "visitWebsite": "Dem ci Site bi",
+    "comingSoon": "Site bi dina ñëw",
+    "achievementBadge": "Govathon 2025 · Prix Impact Social"
+  },
+  "projectItems": {
+    "ekolo": {
+      "category": "IA · SMART CITY · GIS · MOBILE",
+      "title": "EKOLO",
+      "description": "Ab plateforme bu jëfandikoo IA ngir wàll dëkk yu Afrik ci dajale, xam ak defar ndogalin ci wàllu ordures — li dale ci camion bi ba tableau de bord bi."
+    },
+    "senagrix": {
+      "category": "AGRITECH · MARKETPLACE",
+      "title": "Senagrix",
+      "description": "Ab plateforme numérique ngir wàllu liggéey suuf ci Senegaal, bu wéyal daj, jaay ak xeex xibaar — ak marketplace, prix marché yu bés bu bees, contact WhatsApp ak accès USSD."
+    },
+    "farmingafrica": {
+      "category": "AGRITECH · E-COMMERCE",
+      "title": "FarmingAfrica",
+      "description": "Ab plateforme e-commerce bu jëm ci graine ak produits ngir liggéey suuf ci Afrik."
+    },
+    "school-management": {
+      "category": "EDTECH · SAAS · BACKEND",
+      "title": "Plateforme Gestion École",
+      "description": "Ab SaaS bu mat ngir topp jàng yi, at yu jàng, fayyu, reçu ak import données yu IA dimbali."
+    },
+    "komizi": {
+      "category": "CONTENU · PLATEFORME WEB",
+      "title": "Komizi",
+      "description": "Ab plateforme web bu bees ak gestion utilisateur ak administration contenu."
+    },
+    "ekolo-mobile": {
+      "category": "FLUTTER · GIS · MOBILE",
+      "title": "EKOLO Mobile",
+      "description": "Ab application mobile ngir liggéeykat yi ci suuf topp liggéeyu ordures ak opérations ci localisation."
+    }
+  },
+  "caseStudy": {
+    "backToProjects": "Dellu ci Proje yi",
+    "overview": "Aperçu",
+    "problem": "Problème",
+    "solution": "Solution",
+    "features": "Fonctionnalité",
+    "myRole": "Sama Rôle",
+    "technology": "Technologie",
+    "architecture": "Architecture",
+    "screenshots": "Nataal",
+    "challenges": "Jafe-jafe",
+    "results": "Njariñ",
+    "lessonsLearned": "Njàng yi",
+    "liveWebsite": "Site bu Dund",
+    "otherProjects": "Yeneen Proje"
+  },
+  "caseStudies": {
+    "ekolo": {
+      "overview": "EKOLO ab plateforme smart-city bu dimbali dëkk yi xam ak topp dajaleb ordures. Mu jokkoo liggéeykat yu suuf, otos yi ak opérateurs yu commune ci ab système bu bokk: application mobile ngir équipe yi, tableau de bord web ngir opérateurs, ak ab couche IA bu soppi données yi doon ay ndogal.",
+      "problem": "Ci dëkk yu bare ci Afrik, dajaleb ordures dafa wéy ci trajet bu papier, appel radio ak xalaat bu wóor. Camion yi dañuy sори zone yu am solo, poubelle yi dañuy fees te kenn xamul, opérateurs yu commune amuñu benn xibaar bu dund ci lu xew ci suuf — loolu moo tax planification, budget ak redevabilité di jafe lool.",
+      "solution": "EKOLO day may ab xibaar bu dund ci menn menn wàllu opération bi. Agent yu suuf dañuy jëfandikoo ab application mobile Flutter ngir bind dajale yi ak wax jafe-jafe yi ci biir camion. Ab tableau de bord web Next.js/Symfony dafay soppi xibaar yu suuf yooyu ci cartes, trajet ak rapport ngir opérateurs yu commune. Ab couche IA dana wone anomalie yi, di waajal soxla yu dajale te dimbali équipe yi ci lu am solo bu jëkk.",
+      "features": [
+        "Suivi bu dajale ci temps réel ci ab carte interactive (MapLibre/Mapbox)",
+        "Application mobile ngir équipe yi bind arrêt, jafe-jafe ak trajet",
+        "Tableau de bord opérateur bu am historique trajet, couverture ak performance",
+        "Détection anomalie ak insights opérationnel yu IA dimbali",
+        "Accès ci rôle ngir agent yu suuf, superviseur ak administrateur yu commune",
+        "Fonctionnement mobile bu baax ci zone yu connectivité bariwul"
+      ],
+      "role": "Dama liggéey ni développeur full-stack ak mobile ci EKOLO, ci backend Next.js/Symfony bi, application Flutter bu suuf bi, ak couche cartographie ak IA yi soppi données yu suuf ci lu opérateurs yi mën a def.",
+      "architecture": "EKOLO dafa defar ci ab frontend Next.js + React bu waxtaan ak ab API REST Symfony, te am PostgreSQL. Application mobile Flutter bi dafay jëfandikoo menn API bi, MapLibre ak Mapbox di topp cartographie bi ci web ak mobile. Lépp dafay dox ci conteneurs Docker ngir déploiement bu wóor ci menn menn environnement.",
+      "challenges": [
+        "Wéyal application mobile bi baax ngir équipe yu suuf ci zone yu connectivité bariwul",
+        "Defar ab modèle données bu léer ngir wone trajet yu dajale yu suuf yu am jafe-jafe",
+        "Soppi données GPS ak opérationnel yu suuf ci lu am njariñ ngir personnel yu commune bu xamul technique"
+      ],
+      "results": [
+        "Nangu Prix Impact Social ci Govathon 2025",
+        "Ab système bu dox te ñu seetlu ko ci suuf, bu jokkoo équipe mobile yi ak ab tableau de bord bu dund",
+        "Ab base bu équipe bi di wéy ci defar bi EKOLO di yokk ci yeneen dëkk"
+      ],
+      "lessons": [
+        "Defar ngir suuf bu connectivité bariwul dafay soppi lu bare ci ndogal technique",
+        "Tableau de bord yu gën a baax ñooy yi ñu defar ak ñeneen ñu koy jëfandikoo",
+        "May ab solution ci ab jafe-jafe civique bu wóor am beneen njariñ, wuute ak may benn fonctionnalité rekk"
+      ]
+    },
+    "senagrix": {
+      "overview": "Senagrix ab plateforme numérique bu jokkoo liggéeykat suuf, soow-jaaykat ak benn waa kër ci Senegaal. Mu bokk marketplace ci internet, prijs marché yu bés bu bees, contact WhatsApp bu gaaw ak ab service USSD — defar ngir dëkkandoo ak mën-mën yu réél yu liggéeykat suuf ci Senegaal, lu dale ci téléphone intelligent ba ci téléphone basique.",
+      "problem": "Ci Senegaal, liggéeykat suuf yi dañuy maas ci intermédiaire yu dékk ak wax ak njaboot, te xamul wuute ci biir prix marché yu yàgg. Soow-jaaykat yi dañuy jafe ngir seet produit yu bees yu dékk, te li ëpp ci producer yu rural dañuy jëfandikoo téléphone bariwul internet — lu tax ab xel bu neex ci diggante producer yi ak marché yi.",
+      "solution": "Senagrix dafay dajale sa gaaw sama chaîne ci benn plateforme rekk : liggéeykat suuf yi dañuy wone seen produit ak nataal, kàttan ak prijs ; soow-jaaykat yi dañuy seet annonces yi ak prijs yu réél ci marché yu jëkk ; benn clic rekk moo ubbil WhatsApp ngir waxtaan ; ak service USSD *804# bi mu may prijs, annonces ak alertes ci benn téléphone basique, mel ni benn ci internet.",
+      "features": [
+        "Marketplace bi liggéeykat suuf yi wone seen produit ak nataal, kàttan, prijs ak dëkk",
+        "Prix marché yu bés bu bees ci dëkk yu mel ni Dakar, Touba, Kaolack ak Saint-Louis",
+        "Contact WhatsApp walla téléphone ci benn clic rekk ci diggante soow-jaaykat ak jaaykat",
+        "Service USSD *804# ngir xool prijs, bind annonces ak jot alertes SMS bu amul internet",
+        "Xibaar ak temps, alertes jàngoro ak soxóot, ak répertoire fournisseur yu wóor",
+        "Application Android bu bêta ngir expérience marketplace bi bu mat"
+      ],
+      "role": "Dama defar Senagrix lépp lépp ni développeur full-stack — li dale ci architecture marketplace ak annonces yi ba ci suivi prix yi, ak expérience USSD ak mobile yi.",
+      "architecture": "Senagrix dafay dox ci ab frontend Next.js/React ci TypeScript, stylé ak Tailwind CSS, te am ab base de données PostgreSQL ngir annonces, prix ak utilisateur yi.",
+      "challenges": [
+        "Defar service bi ngir jëfandikoo ci connexion 2G ak téléphone basique bu amul internet",
+        "Wóoral prix marché yu bés bu bees ci marché yu bare ak dëkk yu bare",
+        "Defar ab marketplace bu fayoo intermédiaire yu bon buñu wuute ak liggéeykat suuf, te wéy ngir ku jëkk a jëfandikoo numérique"
+      ],
+      "results": [
+        "Ab plateforme bu dund ci senagrix.com",
+        "Couverture marché ci 14 région yu Senegaal",
+        "Ab application Android bu bêta, ak accès USSD bi di ñëw"
+      ],
+      "lessons": [
+        "Defar ngir connectivité yu néew dafay soppi lu bare ci ndogal technique — wéyin rekk moo xam a dëgg",
+        "Dëkkandoo ak askan wi ci fi ñu dëkkoon (WhatsApp, téléphone basique) moo gën a baax ci sos ay yeegaan yu bees",
+        "Wóoral bi tax a ñëw — prijs yu dëgg liday ñëw ci cifere bu bés bu bees"
+      ]
+    },
+    "farmingafrica": {
+      "overview": "FarmingAfrica ab plateforme e-commerce bu ñu defar ngir liggéeykat suuf ak agribusiness, jëm ci wéyal seet, sant ak jot graine ak produits agricole.",
+      "problem": "Liggéeykat suuf ak agribusiness yi dañuy jafe lool ngir am graine ak produits agricole yu baax, ak option yu néew ci internet yu ñu defar ngir seen soxla.",
+      "solution": "FarmingAfrica day yóbbu produits agricole ci internet ak ab catalogue bu wéy ni liggéeykat yi di sant — ci xeetu mburu, saison ak dëkkuwaay — ak ab trajet sant bu léer.",
+      "features": [
+        "Catalogue produits ngir graine ak produits agricole",
+        "Trajet panier ak sant bu wéy ngir liggéeykat suuf",
+        "Boutique responsive bu baax ci mobile",
+        "Outils administration ngir gestion catalogue ak commande"
+      ],
+      "role": "Dama defar boutique bi ak trajet sant ni développeur full-stack, li dale ci catalogue produits ba ci paiement bi.",
+      "architecture": "FarmingAfrica dafa defar ak Next.js ak React ci frontend, stylé ak Tailwind CSS, te am ab base de données PostgreSQL ngir catalogue ak commande yi.",
+      "challenges": [
+        "Modéliser produits agricole yu am variation ci saison ak dëkkuwaay",
+        "Wéyal boutique bi gaaw te baax ci connexion mobile yu néew",
+        "Defar ab trajet sant bu léer ngir ku jëkk a sant ci internet"
+      ],
+      "results": [
+        "Ab boutique bu dund ci farmingafrica.com",
+        "Ab système catalogue ak commande bu ñu defar rekk ngir jëfandikoo liggéeykat suuf"
+      ],
+      "lessons": [
+        "E-commerce ci ab marché bu bees dafa soxla defar ngir wóoral bala commodité",
+        "Performance ci réseau mobile ab fonctionnalité la, du ab detail bu bàyyi"
+      ]
+    },
+    "school-management": {
+      "overview": "Ab plateforme SaaS bu jëm ci backend ngir topp école yi lépp lépp — jàngkat, at yu jàng, matière, xaalis ak reçu — bu ñu defar ngir wuutu tableur ak dossier papier ak ab système bu bokk.",
+      "problem": "École yu bare dañuy wéy topp dossier académique ak financier ci tableur, dossier papier ak outils yu jokkoowul, lu tax topp jàngkat, fayyu ak historique académique bu wóor di jafe.",
+      "solution": "Ab plateforme bu bokk bu topp dossier jàngkat, at yu jàng ak xaalis ci benn palais, ak import Excel yu IA dimbali ngir migrer données yu école bi jafewul.",
+      "features": [
+        "Gestion jàngkat ak at yu jàng",
+        "Fayyu ak génération reçu",
+        "Import Excel ak mapping ak nettoyage données yu IA dimbali",
+        "Authentification bu wóor ak accès ci rôle",
+        "API REST bu dimbali plateforme web bi ak intégration yu ñëw"
+      ],
+      "role": "Dama defar architecture backend bi — modèle données, authentification, API REST ak pipeline import yu IA dimbali.",
+      "architecture": "Defar ci Symfony ak Doctrine ORM ak PostgreSQL, di génère ab API REST bu wóor ak authentification JWT. Ab couche IA dafay dimbali analyser ak mapper données Excel yu import ci schéma plateforme bi.",
+      "challenges": [
+        "Defar ab modèle données bu léer ngir wuute structure académique yu école yi",
+        "Def import Excel yu wóor sunu tableur yi am jafe-jafe walla ñu wuuteel",
+        "Wéyal dossier financier — fayyu ak reçu — bu wóor te ñu mën a vérifier"
+      ],
+      "results": [
+        "Ab plateforme bu dox te mën a topp jàngkat, at yu jàng ak fayyu ci benn palais",
+        "Ab pipeline import yu IA dimbali bu wàññi lool saisie manuelle bu école bi bëgg dugg"
+      ],
+      "lessons": [
+        "Ndogal architecture backend yu ñu jël bu jëkk — surtout ci modèle données — dañuy may njariñ, walla coûter, lu ëpp ci kanam",
+        "IA am solo lool ci système yooyu ni assistant ngir données yu am jafe-jafe, du ab boîte noire bu jël ndogal"
+      ]
+    },
+    "komizi": {
+      "overview": "Komizi ab plateforme web bu jëm ci contenu, defar ak ab frontend bu bees ak ab couche gestion contenu bu mat ngir administrateur yi.",
+      "problem": "Publication ak gestion contenu ak utilisateur ci ab plateforme bu di yokk soxla lu ëpp ci ab site statique — soxla na outils administration ak gestion utilisateur bu wóor li dale ci ndoorte.",
+      "solution": "Komizi day boole ab site public bu gaaw te bees ak ab couche administration ngir gestion utilisateur ak contenu, defar ngir mën a yokk ak plateforme bi.",
+      "features": [
+        "Gestion utilisateur ak authentification",
+        "Administration ak outils publication contenu",
+        "Interface public bu bees te responsive",
+        "Modèle contenu bu structuré te mën a yokk"
+      ],
+      "role": "Dama defar Komizi lépp lépp, li dale ci modèle données contenu/utilisateur ba ci frontend public ak outils administration.",
+      "architecture": "Komizi dafay dox ci ab frontend Next.js/React/TypeScript stylé ak Tailwind CSS, te am ab base de données PostgreSQL ngir contenu ak utilisateur yi.",
+      "challenges": [
+        "Defar outils administration yu am doole te du intimider utilisateur yu xamul technique",
+        "Structurer modèle contenu bu léer ngir xeetu contenu yu di soppiku"
+      ],
+      "results": [
+        "Ab plateforme bu dund ci komizi.com",
+        "Ab base gestion contenu ak utilisateur bu ñu mën a jëfandikoo ngir fonctionnalité yu ñëw"
+      ],
+      "lessons": [
+        "Bon UX administration am solo ni site public bi — moo di outil bu équipe bi jëfandikoo bés bu nekk",
+        "Modèle contenu am njariñ ñu surinvestir tuuti ci ndoorte, ndax dafa jafe soppi ko ci kanam"
+      ]
+    },
+    "ekolo-mobile": {
+      "overview": "EKOLO Mobile mooy compagnon suuf bu plateforme EKOLO — ab application Flutter bu ñu defar ngir équipe yu dajale topp liggéey ak wax lu xew ci suuf.",
+      "problem": "Équipe yu suuf dañu soxla ab moyen bu gaaw te wóor ngir seet seen liggéey, bind dajale yi ak wax jafe-jafe, te amul bureau walla connexion bu wóor.",
+      "solution": "Ab application Flutter bu woyof te am géolocalisation, di may liggéey, position bu dund ak signalement ci loxo agent yu suuf yi.",
+      "features": [
+        "Liggéey ak trajet ngir équipe yu suuf",
+        "Suivi position bu dund ak MapLibre",
+        "Signalement jafe-jafe ci biir suuf",
+        "Intégration API REST ak backend EKOLO"
+      ],
+      "role": "Dama defar application mobile bi ci Flutter, di intégrer fonctionnalité GPS/MapLibre ci API REST EKOLO.",
+      "architecture": "Defar ak Flutter ak Dart, di jëfandikoo MapLibre ngir cartographie ak GPS téléphone bi ngir position bu dund, di waxtaan ak backend EKOLO ci ab API REST.",
+      "challenges": [
+        "Wéyal précision GPS ak consommation batterie ci ab journée suuf bu mat",
+        "Wéyal application bi bu gaaw te woyof ngir équipe yu koy jëfandikoo bés bu nekk ci suuf"
+      ],
+      "results": [
+        "Ab application mobile bu ñu seetlu ci suuf te équipe EKOLO di jëfandikoo",
+        "Ab couche API bu bokk bu wéyal opérateur mobile ak web synchronisé ci temps réel"
+      ],
+      "lessons": [
+        "Logiciel suuf dafay jekk walla dafay nasax ci gaaw ak woyof — menn tap bu yokk day coûter waxtu ku ci",
+        "Defar ngir contrainte GPS ak connectivité ci suuf ab discipline la bu wuute ak liggéey UI mobile bu jëkk"
+      ]
+    }
+  },
+  "about": {
+    "eyebrow": "CI MAN",
+    "title": "Ci Man",
+    "paragraph1": "Man développeur full-stack ak mobile la, product builder ak entrepreneur, dëkk Dakar, Sénégal — dama liggéey ci web, mobile, IA, GIS ak e-commerce ngir defar logiciel yu jëfandikoo jafe-jafe yu wóor.",
+    "paragraph2": "Dama soxla technologie Afrikan ak defar produits yu am impact ci dëkk bi, li dale ci plateforme smart-city ni EKOLO ba ci outils SaaS ngir école ak e-commerce ngir liggéeykat suuf. Dama bind ab API REST, ab écran Flutter walla ab flux IA dimbali, sama xalaat mooy may lu ñëpp jëfandikoo.",
+    "focusAreas": [
+      "Application Web",
+      "Application Mobile",
+      "Plateforme SaaS",
+      "Intégration IA",
+      "GIS & Cartographie",
+      "E-commerce"
+    ]
+  },
+  "skills": {
+    "eyebrow": "XAM-XAM",
+    "title": "Écosystème Technologie",
+    "subtitle": "Outils ak technologie yu ma jëfandikoo ngir concevoir, defar ak may produits.",
+    "categories": {
+      "frontend": "Frontend",
+      "backend": "Backend",
+      "mobile": "Mobile",
+      "ai": "IA",
+      "maps": "Cartes / GIS",
+      "devops": "DevOps",
+      "tools": "Outils"
+    },
+    "usedIn": "Jëfandikoo ci",
+    "coreSkill": "Xam-xam bu am solo"
+  },
+  "experience": {
+    "eyebrow": "TAAMU",
+    "title": "Liggéey & Taamu",
+    "items": {
+      "upsSuptech": {
+        "title": "Licence Professionnelle, Multimédia",
+        "description": "Jàng multimédia ci UPS Suptech, defar base ngir carrière ci design ak développement."
+      },
+      "groupeIsi": {
+        "title": "Master ci Ingénierie Informatique (DITI)",
+        "description": "Jàng master ci ingénierie informatique, dimbali sama base ci génie logiciel ak système."
+      },
+      "sklManager": {
+        "title": "Développeur Web Full-Stack (Freelance)",
+        "description": "Defar ak topp ab plateforme gestion ak React, Node.js ak Symfony, ak conception base de données ak API REST bu wóor."
+      },
+      "aihorizon": {
+        "title": "Support Technique & Gestion Digitale",
+        "description": "Topp plateforme web ak mobile, seetlu infrastructure backend ak gestion présence digitale."
+      },
+      "govathon": {
+        "title": "Prix Impact Social",
+        "description": "EKOLO nangu Prix Impact Social ci Govathon 2025."
+      },
+      "ekolo": {
+        "title": "Développeur Web & Mobile, Responsable Produit",
+        "description": "Defar plateforme smart-city gestion ordures bu EKOLO ci web, mobile ak IA."
+      }
+    }
+  },
+  "services": {
+    "eyebrow": "SERVICES",
+    "title": "Lu Ma Defar",
+    "subtitle": "Développement produit li dale ci xalaat ba ci déploiement.",
+    "items": {
+      "web": {
+        "title": "Application Web",
+        "description": "Application web bu bees te mën a yokk, defar ak React, Next.js ak TypeScript."
+      },
+      "mobile": {
+        "title": "Application Mobile",
+        "description": "Expérience mobile multiplateforme defar ak Flutter."
+      },
+      "backend": {
+        "title": "Backend & API",
+        "description": "API REST ak système backend bu wóor te structuré, defar ak Symfony ak PostgreSQL."
+      },
+      "ai": {
+        "title": "Intégration IA",
+        "description": "Fonctionnalité, assistant, automatisation ak traitement données yu IA, intégré ci produits yu wóor."
+      },
+      "gis": {
+        "title": "GIS & Cartes",
+        "description": "Cartographie interactive, géolocalisation, suivi ak application ci localisation."
+      },
+      "product": {
+        "title": "Développement Produit",
+        "description": "Soppi xalaat ci produits numérique yu dox, li dale ci concept ba ci déploiement."
+      }
+    }
+  },
+  "architecture": {
+    "eyebrow": "ARCHITECTURE",
+    "title": "Nan Laa Defar",
+    "subtitle": "Ab stack bu ñu jëfandikoo ci produits yu ma may — bees, modulaire te defar ngir yokk.",
+    "labels": {
+      "user": "Utilisateur",
+      "frontend": "Next.js · React · TypeScript",
+      "api": "API REST Symfony",
+      "database": "PostgreSQL",
+      "mobile": "Flutter",
+      "ai": "IA",
+      "maps": "MapLibre",
+      "infra": "Docker · Cloudflare"
+    }
+  },
+  "achievements": {
+    "eyebrow": "NJARIÑ",
+    "title": "Njariñ",
+    "subtitle": "Reconnaissance ci diggante.",
+    "items": {
+      "govathon": {
+        "title": "Prix Impact Social",
+        "description": "Nangu ci EKOLO ci Govathon 2025 ngir impact ci gestion ordures ci dëkk bi."
+      }
+    }
+  },
+  "github": {
+    "eyebrow": "OPEN SOURCE",
+    "title": "GitHub",
+    "subtitle": "Ab aperçu ci lu ma di defar ak ma di contribuer ci open source.",
+    "viewGithub": "Xool GitHub",
+    "loading": "Chargement repositories yi…",
+    "error": "Mënuma load repositories yi léegi — xool profile bi directement.",
+    "noDescription": "Amul description.",
+    "repositories": "Repositories",
+    "followers": "Followers"
+  },
+  "contact": {
+    "eyebrow": "JOKKOO",
+    "title": "Am nga ab xalaat?",
+    "titleHighlight": "Nu ko defar.",
+    "description": "Boo di defar ab startup, may ab produit walla wéyal ab jafe-jafe bu jafe, nu waxtaan.",
+    "formName": "Tur",
+    "formEmail": "Email",
+    "formProjectType": "Xeetu Proje",
+    "formProjectTypeOptions": [
+      "Application Web",
+      "Application Mobile",
+      "Produit SaaS",
+      "Intégration IA",
+      "Yeneen"
+    ],
+    "formMessage": "Bataaxal",
+    "formNamePlaceholder": "Sa tur",
+    "formEmailPlaceholder": "yaw@email.com",
+    "formMessagePlaceholder": "Wax ma ci sa proje bi…",
+    "send": "Yónnee Bataaxal",
+    "sending": "Di Yónnee…",
+    "success": "Bataaxal bi parey na — sa application email dina ubbiku.",
+    "error": "Am na problème. Jéemaat walla bind ma directement.",
+    "requiredField": "Champ bi soxla la.",
+    "invalidEmail": "Bind ab adresse email bu wóor.",
+    "emailLabel": "Email",
+    "githubLabel": "GitHub",
+    "linkedinLabel": "LinkedIn"
+  },
+  "footer": {
+    "tagline": "Damay defar produits numérique li dale ci Afrik, ngir àddina.",
+    "navigationTitle": "Navigation",
+    "socialTitle": "Réseaux",
+    "rights": "Lépp am solo."
+  }
+}
